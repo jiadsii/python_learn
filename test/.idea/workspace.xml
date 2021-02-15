@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41cb6701-2085-4c08-bec9-d3e40cda1ea0" name="Default Changelist" comment="hello">
-      <change afterPath="$PROJECT_DIR$/01_python_dist/01_走马灯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_python_dist/02_设计一个函数指定验证码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_python_dist/03_判断一年第几天.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_python_dist/04_井字棋游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象进阶/01_property装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象进阶/02_slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象进阶/03_静态方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象进阶/04_类方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象进阶/05_继承与多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象进阶/06_多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_图形用户界面和游戏开发/01_tkinker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,10 +49,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.04_井字棋游戏">
-    <configuration name="01_走马灯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_tkinker">
+    <configuration name="01_tkinker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,12 +60,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_python_dist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_图形用户界面和游戏开发" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_python_dist/01_走马灯.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_图形用户界面和游戏开发/01_tkinker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_设计一个函数指定验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_静态方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,12 +82,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_python_dist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_python_dist/02_设计一个函数指定验证码.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象进阶/03_静态方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_判断一年第几天" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_类方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +104,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_python_dist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_python_dist/03_判断一年第几天.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象进阶/04_类方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_井字棋游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_继承与多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_python_dist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_python_dist/04_井字棋游戏.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象进阶/05_继承与多态.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="i_am" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/i_am.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象进阶/06_多态.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_井字棋游戏" />
-        <item itemvalue="Python.03_判断一年第几天" />
-        <item itemvalue="Python.02_设计一个函数指定验证码" />
-        <item itemvalue="Python.01_走马灯" />
-        <item itemvalue="Python.i_am" />
+        <item itemvalue="Python.01_tkinker" />
+        <item itemvalue="Python.06_多态" />
+        <item itemvalue="Python.05_继承与多态" />
+        <item itemvalue="Python.04_类方法" />
+        <item itemvalue="Python.03_静态方法" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +212,9 @@
       <workItem from="1612217225182" duration="15000" />
       <workItem from="1612559617028" duration="37000" />
       <workItem from="1613312742893" duration="2004000" />
-      <workItem from="1613315037886" duration="2848000" />
+      <workItem from="1613315037886" duration="3135000" />
+      <workItem from="1613389797081" duration="952000" />
+      <workItem from="1613393919925" duration="1577000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1613315243009</created>
@@ -225,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613315256460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello">
+      <created>1613318083454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613318083454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +253,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
@@ -248,14 +261,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test$it_is_test.coverage" NAME="it_is_test Coverage Results" MODIFIED="1611322169870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$main.coverage" NAME="main Coverage Results" MODIFIED="1613315100939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$hello2.coverage" NAME="hello2 Coverage Results" MODIFIED="1611321849515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1611322760530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$01_.coverage" NAME="01_走马灯 Coverage Results" MODIFIED="1613317139822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python_dist" />
-    <SUITE FILE_PATH="coverage/test$04_.coverage" NAME="04_井字棋游戏 Coverage Results" MODIFIED="1613317867387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python_dist" />
-    <SUITE FILE_PATH="coverage/test$02_.coverage" NAME="02_设计一个函数指定验证码 Coverage Results" MODIFIED="1613317369653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python_dist" />
+    <SUITE FILE_PATH="coverage/test$05_.coverage" NAME="05_继承与多态 Coverage Results" MODIFIED="1613390390415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
+    <SUITE FILE_PATH="coverage/test$04_.coverage" NAME="04_类方法 Coverage Results" MODIFIED="1613390178592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
+    <SUITE FILE_PATH="coverage/test$01_tkinker.coverage" NAME="01_tkinker Coverage Results" MODIFIED="1613396528985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_图形用户界面和游戏开发" />
+    <SUITE FILE_PATH="coverage/test$01_property.coverage" NAME="01_property装饰器 Coverage Results" MODIFIED="1613389919961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
     <SUITE FILE_PATH="coverage/test$hello.coverage" NAME="hello Coverage Results" MODIFIED="1611239800558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$i_am.coverage" NAME="i_am Coverage Results" MODIFIED="1611322841914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$03_.coverage" NAME="03_判断一年第几天 Coverage Results" MODIFIED="1613317502702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python_dist" />
+    <SUITE FILE_PATH="coverage/test$06_.coverage" NAME="06_多态 Coverage Results" MODIFIED="1613390494532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
+    <SUITE FILE_PATH="coverage/test$main.coverage" NAME="main Coverage Results" MODIFIED="1613315100939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1611322760530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$01_.coverage" NAME="01_走马灯 Coverage Results" MODIFIED="1613317139822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python_dist" />
+    <SUITE FILE_PATH="coverage/test$02_.coverage" NAME="02_设计一个函数指定验证码 Coverage Results" MODIFIED="1613317369653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python_dist" />
+    <SUITE FILE_PATH="coverage/test$02_slots.coverage" NAME="02_slots Coverage Results" MODIFIED="1613390012640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
+    <SUITE FILE_PATH="coverage/test$03_.coverage" NAME="03_静态方法 Coverage Results" MODIFIED="1613390120163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
   </component>
 </project>
