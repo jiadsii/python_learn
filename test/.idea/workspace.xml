@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41cb6701-2085-4c08-bec9-d3e40cda1ea0" name="Default Changelist" comment="hello">
-      <change afterPath="$PROJECT_DIR$/10_django/01_初级学习/01_数据库/vote.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_django/01_初级学习/hellodjango/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_django/01_初级学习/vote/inspectdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_django/01_初级学习/vote/polls/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_django/01_初级学习/vote/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/01_搜狐爬虫.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/02_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/03_爬虫豆瓣电影.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/04_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/05_beautifulsoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/06_获取知乎上的.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/07_数据存储.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/08_redis数据缓存.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/09_并发编程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/10_爬取手机搜狐网.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/11_阿里v站.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/12_使用selenuim爬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_爬虫/zhihu.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -59,8 +67,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.05_分页查看员工信息">
-    <configuration name="01_添加一个部门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10_爬取手机搜狐网">
+    <configuration name="05_beautifulsoup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,12 +76,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_mysql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_mysql/01_添加一个部门.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_爬虫/05_beautifulsoup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_删除一个部门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_获取知乎上的" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_mysql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_mysql/02_删除一个部门.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_爬虫/06_获取知乎上的.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_更新一个部门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_数据存储" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_mysql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_mysql/03_更新一个部门.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_爬虫/07_数据存储.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_查看所有的部门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_并发编程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_mysql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_mysql/04_查看所有的部门.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_爬虫/09_并发编程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_分页查看员工信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_爬取手机搜狐网" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_mysql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_mysql/05_分页查看员工信息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_爬虫/10_爬取手机搜狐网.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_分页查看员工信息" />
-        <item itemvalue="Python.04_查看所有的部门" />
-        <item itemvalue="Python.03_更新一个部门" />
-        <item itemvalue="Python.02_删除一个部门" />
-        <item itemvalue="Python.01_添加一个部门" />
+        <item itemvalue="Python.10_爬取手机搜狐网" />
+        <item itemvalue="Python.09_并发编程" />
+        <item itemvalue="Python.07_数据存储" />
+        <item itemvalue="Python.06_获取知乎上的" />
+        <item itemvalue="Python.05_beautifulsoup" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +233,8 @@
       <workItem from="1613393919925" duration="1691000" />
       <workItem from="1613544441733" duration="5532000" />
       <workItem from="1613629158146" duration="4246000" />
-      <workItem from="1613797113506" duration="9723000" />
+      <workItem from="1613797113506" duration="10448000" />
+      <workItem from="1613921255326" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1613315243009</created>
@@ -283,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613634405210</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hello">
+      <created>1613823012643</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613823012643</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,46 +321,34 @@
     <MESSAGE value="hello" />
     <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_爬虫/10_爬取手机搜狐网.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test$it_is_test.coverage" NAME="it_is_test Coverage Results" MODIFIED="1611322169870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$hello2.coverage" NAME="hello2 Coverage Results" MODIFIED="1611321849515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$05_.coverage" NAME="05_分页查看员工信息 Coverage Results" MODIFIED="1613634167382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_mysql" />
-    <SUITE FILE_PATH="coverage/test$22_.coverage" NAME="22_工资结算系统 Coverage Results" MODIFIED="1613630576319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$07_.coverage" NAME="07_冒泡排序 Coverage Results" MODIFIED="1613629765663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$hello.coverage" NAME="hello Coverage Results" MODIFIED="1611239800558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$i_am.coverage" NAME="i_am Coverage Results" MODIFIED="1611322841914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$13_.coverage" NAME="13_贪婪发 Coverage Results" MODIFIED="1613630010488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$35_io.coverage" NAME="35_异步io Coverage Results" MODIFIED="1613631620355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$04_itertools.coverage" NAME="04_itertools Coverage Results" MODIFIED="1613629587137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$26_.coverage" NAME="26_可插拔的哈希算法（策略模式） Coverage Results" MODIFIED="1613630837159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$33_.coverage" NAME="33_多进程 Coverage Results" MODIFIED="1613631224026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$14_.coverage" NAME="14_快速排序 Coverage Results" MODIFIED="1613630065482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$32_.coverage" NAME="32_锁 Coverage Results" MODIFIED="1613631145946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$01_.coverage" NAME="01_添加一个部门 Coverage Results" MODIFIED="1613633783513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_mysql" />
+    <SUITE FILE_PATH="coverage/test$01_.coverage" NAME="01_搜狐爬虫 Coverage Results" MODIFIED="1613921467917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
     <SUITE FILE_PATH="coverage/test$08_.coverage" NAME="08_搅拌排序 Coverage Results" MODIFIED="1613629793363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$02_slots.coverage" NAME="02_slots Coverage Results" MODIFIED="1613390012640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
     <SUITE FILE_PATH="coverage/test$27_.coverage" NAME="27_迭代器 Coverage Results" MODIFIED="1613630912717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$04_2.coverage" NAME="04_多线程2 Coverage Results" MODIFIED="1613550964225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_进程" />
-    <SUITE FILE_PATH="coverage/test$04_json.coverage" NAME="04_json文件 Coverage Results" MODIFIED="1613549008995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_文件异常" />
-    <SUITE FILE_PATH="coverage/test$29_.coverage" NAME="29_生成器进化成进程 Coverage Results" MODIFIED="1613630986319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$02_subpress.coverage" NAME="02_使用subpress Coverage Results" MODIFIED="1613550844771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_进程" />
-    <SUITE FILE_PATH="coverage/test$30_.coverage" NAME="30_并发编程 Coverage Results" MODIFIED="1613631045918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$03_.coverage" NAME="03_更新一个部门 Coverage Results" MODIFIED="1613634048065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_mysql" />
     <SUITE FILE_PATH="coverage/test$16_.coverage" NAME="16_子列表元素之和的最大值 Coverage Results" MODIFIED="1613630171041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$01_tkinker.coverage" NAME="01_tkinker Coverage Results" MODIFIED="1613396536817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_图形用户界面和游戏开发" />
-    <SUITE FILE_PATH="coverage/test$04_.coverage" NAME="04_查看所有的部门 Coverage Results" MODIFIED="1613634120380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_mysql" />
-    <SUITE FILE_PATH="coverage/test$17_.coverage" NAME="17_输出函数执行时间的装饰器 Coverage Results" MODIFIED="1613630286414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$24_key.coverage" NAME="24_自定义字典限制只有在指定的key不存在时才能在字典中设置键值对 Coverage Results" MODIFIED="1613630727863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$21_.coverage" NAME="21_线程安全的单利模式 Coverage Results" MODIFIED="1613630525394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$01_property.coverage" NAME="01_property装饰器 Coverage Results" MODIFIED="1613389919961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
-    <SUITE FILE_PATH="coverage/test$01_qq.coverage" NAME="01_输入姓名和qq号是否有效 Coverage Results" MODIFIED="1613550320500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_正则表达式" />
     <SUITE FILE_PATH="coverage/test$12_.coverage" NAME="12_穷举法 Coverage Results" MODIFIED="1613629965148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$25_.coverage" NAME="25_用元类实现单例模式 Coverage Results" MODIFIED="1613630770564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$01_requests.coverage" NAME="01_requests Coverage Results" MODIFIED="1613551634670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_requests" />
-    <SUITE FILE_PATH="coverage/test$06_.coverage" NAME="06_简单选择排序 Coverage Results" MODIFIED="1613629736758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$05_beautifulsoup.coverage" NAME="05_beautifulsoup Coverage Results" MODIFIED="1613922011847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
+    <SUITE FILE_PATH="coverage/test$06_.coverage" NAME="06_获取知乎上的 Coverage Results" MODIFIED="1613922097989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
     <SUITE FILE_PATH="coverage/test$main.coverage" NAME="main Coverage Results" MODIFIED="1613315100939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$09_.coverage" NAME="09_合并排序 Coverage Results" MODIFIED="1613629820720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
-    <SUITE FILE_PATH="coverage/test$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1611322760530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$09_.coverage" NAME="09_并发编程 Coverage Results" MODIFIED="1613922548066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
     <SUITE FILE_PATH="coverage/test$28_.coverage" NAME="28_生成器 Coverage Results" MODIFIED="1613630942160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$15_.coverage" NAME="15_回朔法 Coverage Results" MODIFIED="1613630104524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$34_.coverage" NAME="34_异步处理 Coverage Results" MODIFIED="1613631306260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
@@ -352,6 +356,33 @@
     <SUITE FILE_PATH="coverage/test$09_2.coverage" NAME="09_使用多进程对2 Coverage Results" MODIFIED="1613551365234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_进程" />
     <SUITE FILE_PATH="coverage/test$31_.coverage" NAME="31_多个线程竞争资源 Coverage Results" MODIFIED="1613631108529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
     <SUITE FILE_PATH="coverage/test$03_heapq.coverage" NAME="03_heapq堆排序 Coverage Results" MODIFIED="1613629430836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$it_is_test.coverage" NAME="it_is_test Coverage Results" MODIFIED="1611322169870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$02_requests.coverage" NAME="02_requests Coverage Results" MODIFIED="1613921739639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
+    <SUITE FILE_PATH="coverage/test$hello2.coverage" NAME="hello2 Coverage Results" MODIFIED="1611321849515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$22_.coverage" NAME="22_工资结算系统 Coverage Results" MODIFIED="1613630576319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$07_.coverage" NAME="07_数据存储 Coverage Results" MODIFIED="1613922353415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
+    <SUITE FILE_PATH="coverage/test$i_am.coverage" NAME="i_am Coverage Results" MODIFIED="1611322841914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$04_itertools.coverage" NAME="04_itertools Coverage Results" MODIFIED="1613629587137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$26_.coverage" NAME="26_可插拔的哈希算法（策略模式） Coverage Results" MODIFIED="1613630837159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$33_.coverage" NAME="33_多进程 Coverage Results" MODIFIED="1613631224026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$14_.coverage" NAME="14_快速排序 Coverage Results" MODIFIED="1613630065482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$02_slots.coverage" NAME="02_slots Coverage Results" MODIFIED="1613390012640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
+    <SUITE FILE_PATH="coverage/test$04_2.coverage" NAME="04_多线程2 Coverage Results" MODIFIED="1613550964225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_进程" />
+    <SUITE FILE_PATH="coverage/test$04_lxml.coverage" NAME="04_lxml Coverage Results" MODIFIED="1613921970471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
+    <SUITE FILE_PATH="coverage/test$04_json.coverage" NAME="04_json文件 Coverage Results" MODIFIED="1613549008995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_文件异常" />
+    <SUITE FILE_PATH="coverage/test$29_.coverage" NAME="29_生成器进化成进程 Coverage Results" MODIFIED="1613630986319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$02_subpress.coverage" NAME="02_使用subpress Coverage Results" MODIFIED="1613550844771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_进程" />
+    <SUITE FILE_PATH="coverage/test$30_.coverage" NAME="30_并发编程 Coverage Results" MODIFIED="1613631045918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$03_.coverage" NAME="03_爬虫豆瓣电影 Coverage Results" MODIFIED="1613921850752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
+    <SUITE FILE_PATH="coverage/test$10_.coverage" NAME="10_爬取手机搜狐网 Coverage Results" MODIFIED="1613922607301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_爬虫" />
+    <SUITE FILE_PATH="coverage/test$01_tkinker.coverage" NAME="01_tkinker Coverage Results" MODIFIED="1613396536817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_图形用户界面和游戏开发" />
+    <SUITE FILE_PATH="coverage/test$04_.coverage" NAME="04_查看所有的部门 Coverage Results" MODIFIED="1613634120380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_mysql" />
+    <SUITE FILE_PATH="coverage/test$17_.coverage" NAME="17_输出函数执行时间的装饰器 Coverage Results" MODIFIED="1613630286414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$24_key.coverage" NAME="24_自定义字典限制只有在指定的key不存在时才能在字典中设置键值对 Coverage Results" MODIFIED="1613630727863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
+    <SUITE FILE_PATH="coverage/test$01_property.coverage" NAME="01_property装饰器 Coverage Results" MODIFIED="1613389919961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象进阶" />
+    <SUITE FILE_PATH="coverage/test$01_qq.coverage" NAME="01_输入姓名和qq号是否有效 Coverage Results" MODIFIED="1613550320500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_正则表达式" />
+    <SUITE FILE_PATH="coverage/test$01_requests.coverage" NAME="01_requests Coverage Results" MODIFIED="1613551634670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_requests" />
+    <SUITE FILE_PATH="coverage/test$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1611322760530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$23_.coverage" NAME="23_扑克游戏 Coverage Results" MODIFIED="1613630631374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_python语言进阶" />
   </component>
 </project>
